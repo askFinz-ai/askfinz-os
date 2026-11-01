@@ -12,4 +12,4 @@ A Linux distribution that turns a workstation, server or device into a managed a
 
 Every file here is a structured summary generated from the matching page on askfinz.com, and links back to it. The website is the source of truth; if the two ever differ, trust the site.
 
-Generated 2026-10-31.
+Generated 2026-11-01.
